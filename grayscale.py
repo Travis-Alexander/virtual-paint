@@ -24,3 +24,7 @@ cv2.imshow("Eroded image", imgEroded)
 cv2.waitKey(0)
 
 #Code Above this line is a grayscale image
+
+
+
+ho
